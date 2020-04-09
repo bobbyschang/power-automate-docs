@@ -247,7 +247,6 @@ Some of the features available in the commercial version of Flow are not availab
 
 - [Power BI](https://docs.microsoft.com/connectors/powerbi/) – Power Automate US Government doesn’t support Power BI at this time.
 
-- [Power Platform admin center](https://docs.microsoft.com/power-platform/admin/admin-documentation) – You can use the admin center to [open support tickets](https://docs.microsoft.com/power-platform/admin/get-help-support), but other functionality is currently not available in US Government tenants.
 
 ### See also
 
